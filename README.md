@@ -8,3 +8,5 @@ Now it has been edited again.
 I'm doing *this* edit locally...
 
 *This* edit will go into a new branch.
+
+*THIS* edit is being made to a local branch I created.
